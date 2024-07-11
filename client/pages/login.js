@@ -3,7 +3,7 @@ import Header from "../components/Layout/Header";
 export default function login() {
   return (
     <>
-      <Header />
+      {/* <Header /> */}
       <LoginForm />
     </>
   );
